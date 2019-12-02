@@ -1,6 +1,6 @@
 {
   "name": "djs-minesweeper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Discord.js MineSweeper",
   "main": "index.js",
   "scripts": {

@@ -10,3 +10,11 @@
     const board = new Minesweeper().start();
     // send board in a MessageEmbed/RichEmbed description field.
 ```
+
+# Changelog
+
+## v1.0.0 (12/2/19)
+* Initial release
+
+## v1.0.1 (12/2/19)
+* Add in an example Discord bot
