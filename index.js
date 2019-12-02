@@ -8,7 +8,7 @@ class Minesweeper {
     generateMineArray() {
         this.mineArray = Array(this.rows * this.columns).fill(0); 
 
-        while(this.mines >= 0) { // handle random bomb placement
+        while(this.mines > 0) { // handle random bomb placement
             const i = Math.floor(Math.random() * this.mineArray.length);
             if(this.mineArray[i] === 9) continue;
             this.mineArray[i] = 9;
