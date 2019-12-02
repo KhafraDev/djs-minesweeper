@@ -1,0 +1,23 @@
+{
+  "name": "djs-minesweeper",
+  "version": "1.0.0",
+  "description": "Discord.js MineSweeper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/khafradev/djs-minesweeper.git"
+  },
+  "keywords": [
+    "discord.js",
+    "minesweeper"
+  ],
+  "author": "Khafra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khafradev/djs-minesweeper/issues"
+  },
+  "homepage": "https://github.com/khafradev/djs-minesweeper#readme"
+}
